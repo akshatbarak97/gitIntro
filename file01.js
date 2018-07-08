@@ -1,1 +1,5 @@
-console.log("Hello World!!")
+function fun(name)
+{
+    console.log('knock knock' + name )
+}
+fun(" Akshat!!")
